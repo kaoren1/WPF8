@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8UrpBHOFf/SA1wPVkD5qFvg9ulEv/OHVfWHnmpu+WTBblYQK91sV+xUBPOT3Fg1lDs0IYlNt4jPxHaiEaPZPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ярослав\\source\\repos\\PR8WPF\\FunctionalLib\\FunctionalLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ярослав\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
